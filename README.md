@@ -11,10 +11,13 @@ Quick introduction of Application
 
 ## Demo Images
 
-![screenshot](public/assets/images/index.png) 
+![screenshot](public/images/index.png) 
+![screenshot](public/images/index2.png) 
+
 
 ## Contact
 If you want to contact me you can reach me at banda_adrian@outlook.com
 
 ## Links
+[Heroku](https://git.heroku.com/progressive-budget-tracker-ab.git)  
 [Github Profile](https://github.com/banda-adrian)
