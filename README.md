@@ -19,5 +19,5 @@ Quick introduction of Application
 If you want to contact me you can reach me at banda_adrian@outlook.com
 
 ## Links
-[Heroku](https://git.heroku.com/progressive-budget-tracker-ab.git)  
+[Heroku](https://workout-tracker-ab.herokuapp.com/)  
 [Github Profile](https://github.com/banda-adrian)
